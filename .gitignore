@@ -1,0 +1,15 @@
+# Python / Sanal ortam
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/
+kaggle.json
+
+# OS / Sistem
+.DS_Store
+Thumbs.db
