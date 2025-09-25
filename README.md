@@ -27,8 +27,8 @@ Bu proje işaret dili harflerini bilgisayara tanıtmak için derin öğrenme yö
 pip install -r requirements.txt
 jupyter notebook  # notebooks/main.ipynb'yi aç
 
-🔗 Kaggle Notebook Linki
+## 🔗 Kaggle Notebook Linki
 Proje defteri: https://www.kaggle.com/code/gokcebaykal/derin-ogrenme-tabanli-isaret-dili-siniflandirici
 
-📜 Lisans
+##📜 Lisans
 MIT
