@@ -14,7 +14,7 @@ Bu proje işaret dili harflerini bilgisayara tanıtmak için derin öğrenme yö
 - Görselleştirme: Grad-CAM
 
 ## 📊 Sonuçlar (Özet)
-- Test Accuracy: **%XX.XX**
+- Test Accuracy: **%94.81**
 - Önemli gözlem: Model bazı harflerde yüksek doğruluk, bazı benzer harflerde hata yapmıştır.
 
 ## 💾 Veri Seti
